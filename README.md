@@ -48,30 +48,14 @@ if __name__ == '__main__':
 ![IMG_3034](https://github.com/STANLEY-13/mobilerobot-openloopcontrol/assets/148198816/8b3b9430-c11b-4fdd-9501-2dddc3114b9e)
 
 
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## MobileRobot Movement Video:
-
 
 https://youtube.com/shorts/WErbTIDquM0?feature=shared
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
