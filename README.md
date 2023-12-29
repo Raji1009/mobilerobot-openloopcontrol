@@ -91,7 +91,7 @@ if _name_ == '_main_':
 ```
 
 ## MobileRobot Movement Image:
-![Alt text](<WhatsApp Image 2023-12-29 at 17.43.32_2dec139b.jpg>)
+![WhatsApp Image 2023-12-29 at 17 51 47_2c44101b](https://github.com/Raji1009/mobilerobot-openloopcontrol/assets/89059861/c8b6acd6-917b-40ec-8c08-5546a49fbeab)
 
 ## MobileRobot Movement Video:
 
