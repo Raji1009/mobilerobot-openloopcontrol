@@ -46,7 +46,6 @@ if __name__ == '__main__':
 ## MobileRobot Movement Image:
 
 ![IMG_3034](https://github.com/STANLEY-13/mobilerobot-openloopcontrol/assets/148198816/8b3b9430-c11b-4fdd-9501-2dddc3114b9e)
-![IMG_3034](https://github.com/STANLEY-13/mobilerobot-openloopcontrol/assets/148198816/3bfc6402-4ae2-4f91-9fac-ea41be734898)
 
 
 
